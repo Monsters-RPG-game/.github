@@ -74,7 +74,7 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 All backend services are currently licenced under Apache 2.0 licence.
 
 ## 6. Live examples
-- You can find docs website here [here](https://docs.kiszczyc.pl/)
+- You can find docs website [here](https://docs.kiszczyc.pl/)
 
 ### 6.1 Production env
 - Client is currectly deployed [here](https://kiszczyc.pl)
