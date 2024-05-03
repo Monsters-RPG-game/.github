@@ -26,7 +26,7 @@ Messages communication system created to consume user messages and live chat.
 ### 3.4 [Fights](https://github.com/Monsters-RPG-game/Monsters-fights)
 Fights is one of most important parts of this application. Its job is to manage battles, handle user's stats based on equimpent, rase and skill points.
 
-### 3.5 [Fights](https://github.com/Monsters-RPG-game/Monsters-fights)
+### 3.5 [Maps](https://github.com/Monsters-RPG-game/Maps)
 Maps is movment controller, managing where each user is located and how each  field should look like
 
 ### 3.6 [Web client](https://github.com/Monsters-RPG-game/Monsters-WebClient)
