@@ -26,13 +26,16 @@ Messages communication system created to consume user messages and live chat.
 ### 3.4 [Fights](https://github.com/Monsters-RPG-game/Monsters-fights)
 Fights is one of most important parts of this application. Its job is to manage battles, handle user's stats based on equimpent, rase and skill points.
 
-### 3.5 [Web client](https://github.com/Monsters-RPG-game/Monsters-WebClient)
+### 3.5 [Fights](https://github.com/Monsters-RPG-game/Monsters-fights)
+Maps is movment controller, managing where each user is located and how each  field should look like
+
+### 3.6 [Web client](https://github.com/Monsters-RPG-game/Monsters-WebClient)
 In currect state our project has only 1 client which is written in Vite with React, styled with tailwind. This client is text-based. In the future, we are planning on making desktop client or mobile client.
 
-### 3.6 [Docs](https://github.com/Monsters-RPG-game/Monsters-Docs)
+### 3.7 [Docs](https://github.com/Monsters-RPG-game/Monsters-Docs)
 Gateway, as main point of entry includes swagger documentation. You can also find website with deeper explanantion of how things work, including UML diagrams.
 
-### 3.7 [Head](https://github.com/Monsters-RPG-game/Monsters-head)
+### 3.8 [Head](https://github.com/Monsters-RPG-game/Monsters-head)
 Head is simple project, containing scripts and settings to autmate preparing whole backend infrastructure. It includes docker configs, k8s configs and shell scripts to fasten whole process.
 
 ## Getting Started
