@@ -38,6 +38,9 @@ Gateway, as main point of entry includes swagger documentation. You can also fin
 ### 3.8 [Head](https://github.com/Monsters-RPG-game/Monsters-head)
 Head is simple project, containing scripts and settings to autmate preparing whole backend infrastructure. It includes docker configs, k8s configs and shell scripts to fasten whole process.
 
+### 3.9 [Story](https://github.com/Monsters-RPG-game/Story)
+Story as the name implies, is microservice, which manages in game story. From what npc says, to what "narrator".
+
 ## Getting Started
 To get started with our backend solutions, follow these steps:
 
