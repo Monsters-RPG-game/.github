@@ -41,6 +41,9 @@ Head is simple project, containing scripts and settings to autmate preparing who
 ### 3.9 [Story](https://github.com/Monsters-RPG-game/Story)
 Story as the name implies, is microservice, which manages in game story. From what npc says, to what "narrator".
 
+### 3.10 [CDN](https://github.com/Monsters-RPG-game/CDN)
+CDN is serivice, which manages images, files and other types of "dynamic" data.
+
 ## Getting Started
 To get started with our backend solutions, follow these steps:
 
