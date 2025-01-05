@@ -1,8 +1,8 @@
-# Monsters RPG game
-Welcome to the RPG Backend Organization!
+# Monsters game servers
+Welcome to the Monsters Backend Organization
 
 ## 1. Overview
-Our organization is dedicated to providing robust, scalable, and open-source backend solutions for RPGs. We leverage Service-Oriented Architecture (SOA) principles and Node.js technology to empower game developers with flexible and efficient backend systems. Most of our projects are still WIP.
+Our organization is dedicated to providing robust, scalable, and open-source backend solutions for mobile games. We leverage Service-Oriented Architecture (SOA) principles and Node.js technology to empower game developers with flexible and efficient backend systems. Most of our projects are still WIP.
 
 ## 2. Features
 - SOA Architecture: Our backend is designed using Service-Oriented Architecture, promoting modularity, scalability, and maintainability.
@@ -19,6 +19,9 @@ Gateway is service created with express.js. It controlls authenitcation, data ca
 
 ### 3.2 [Users](https://github.com/Monsters-RPG-game/Monsters-users)
 Users is another part of this project, managing user's accounts, in-game characters, inventories and user statistics.
+
+> [!IMPORTANT]
+> Other services below will be rewriten. They are left here for now, but this project has ongoing infrastructure changes ( changing from rpg game to simple clickers backend ). Only services above here are fully working. This is subject to change.
 
 ### 3.3 [Messages](https://github.com/Monsters-RPG-game/Monsters-messages)
 Messages communication system created to consume user messages and live chat.
