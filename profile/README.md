@@ -1,3 +1,6 @@
+EOL ? I've been working on this project for almost 2 years, redesigning it multiple times, working on it more to learn, than to create something. I just don't see any reason to work on it no more... :'(
+
+
 # Monsters game servers
 Welcome to the Monsters Backend Organization
 
@@ -84,16 +87,3 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 
 ## 5. License
 All backend services are currently licenced under Apache 2.0 licence.
-
-## 6. Live examples
-- You can find docs website [here](https://docs.kiszczyc.pl/)
-
-### 6.1 Production env
-- Client is currectly deployed [here](https://kiszczyc.pl)
-- Backend is currectly deployed [here](https://api.kiszczyc.pl)
-- You can find swagger docs in [here](https://api.kiszczyc.pl/docs)
-
-### 6.2 Development / Test env
-Test env does not include client and it is open for our developers to work with clients on their machines. This env might include changes, which will break something.
-- Backend is currectly deployed [here](https://test.api.kiszczyc.pl)
-- You can find swagger docs in [here](https://test.api.kiszczyc.pl/docs)
