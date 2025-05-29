@@ -23,11 +23,11 @@ Gateway is service created with express.js. It controlls authenitcation, data ca
 ### 3.2 [Users](https://github.com/Monsters-RPG-game/Monsters-users)
 Users is another part of this project, managing user's accounts, in-game characters, inventories and user statistics.
 
-> [!IMPORTANT]
-> Other services below will be rewriten. They are left here for now, but this project has ongoing infrastructure changes ( changing from rpg game to simple clickers backend ). Only services above here are fully working. This is subject to change.
-
 ### 3.3 [Messages](https://github.com/Monsters-RPG-game/Monsters-messages)
 Messages communication system created to consume user messages and live chat.
+
+> [!IMPORTANT]
+> Other services below will be rewriten. They are left here for now, but this project has ongoing infrastructure changes ( changing from rpg game to simple clickers backend ). Only services above here are fully working. This is subject to change.
 
 ### 3.4 [Fights](https://github.com/Monsters-RPG-game/Monsters-fights)
 Fights is one of most important parts of this application. Its job is to manage battles, handle user's stats based on equimpent, rase and skill points.
