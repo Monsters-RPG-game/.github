@@ -1,6 +1,3 @@
-EOL ? I've been working on this project for almost 2 years, redesigning it multiple times, working on it more to learn, than to create something. I just don't see any reason to work on it no more... :'(
-
-
 # Monsters game servers
 Welcome to the Monsters Backend Organization
 
