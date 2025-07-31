@@ -23,11 +23,11 @@ Users is another part of this project, managing user's accounts, in-game charact
 ### 3.3 [Messages](https://github.com/Monsters-RPG-game/Monsters-messages)
 Messages communication system created to consume user messages and live chat.
 
-> [!IMPORTANT]
-> Other services below will be rewriten. They are left here for now, but this project has ongoing infrastructure changes ( changing from rpg game to simple clickers backend ). Only services above here are fully working. This is subject to change.
-
 ### 3.4 [Fights](https://github.com/Monsters-RPG-game/Monsters-fights)
 Fights is one of most important parts of this application. Its job is to manage battles, handle user's stats based on equimpent, rase and skill points.
+
+> [!IMPORTANT]
+> Other services below will be rewriten. They are left here for now, but this project has ongoing infrastructure changes ( changing from rpg game to simple clickers backend ). Only services above here are fully working. This is subject to change.
 
 ### 3.5 [Maps](https://github.com/Monsters-RPG-game/Maps)
 Maps is movment controller, managing where each user is located and how each  field should look like
